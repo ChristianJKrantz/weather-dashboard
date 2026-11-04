@@ -1,4 +1,4 @@
-<h1 align="center">🌤️ Weather Dashboard</h1>
+<h1 align="center">Weather Dashboard</h1>
 
 <p align="center">Search any city for current conditions and a 5-day forecast. Your recent searches stay one click away.</p>
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Open--Meteo_API-FF8800?style=for-the-badge" alt="Open-Meteo API">
 </p>
 
-<p align="center"><a href="https://christiankrantz11.github.io/weather-dashboard/"><strong>🚀 Live Demo</strong></a></p>
+<p align="center"><a href="https://christiankrantz11.github.io/weather-dashboard/"><strong>Live Demo</strong></a></p>
 
 <p align="center"><img src="docs/screenshot.png" alt="Weather Dashboard showing current conditions and a 5-day forecast for Austin" width="850"></p>
 
@@ -67,19 +67,6 @@ No build step and no API key are needed.
 2. The coordinates are sent to the forecast API. It returns the current conditions and 6 days of daily data in °F and mph, using the city's local time zone.
 3. The page builds the current-weather card and the 5 forecast cards (tomorrow onward). Text is inserted with `textContent`, so search input can't inject HTML.
 
-## User Story
-
-<details>
-<summary>Original assignment user story</summary>
-
-```
-AS A traveler
-I WANT to see the weather outlook for multiple cities
-SO THAT I can plan a trip accordingly
-```
-
-</details>
-
 ## Author
 
-[ChristianKrantz11](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [GitHub](https://github.com/ChristianKrantz11)
