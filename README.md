@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Open--Meteo_API-FF8800?style=for-the-badge" alt="Open-Meteo API">
 </p>
 
-<p align="center"><a href="https://christiankrantz11.github.io/weather-dashboard/"><strong>Live Demo</strong></a></p>
+<p align="center"><a href="https://christianjkrantz.github.io/weather-dashboard/"><strong>Live Demo</strong></a></p>
 
 <p align="center"><img src="docs/screenshot.png" alt="Weather Dashboard showing current conditions and a 5-day forecast for Austin" width="850"></p>
 
@@ -57,7 +57,7 @@ No build step and no API key are needed.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ChristianKrantz11/weather-dashboard.git
+   git clone https://github.com/ChristianJKrantz/weather-dashboard.git
    ```
 2. Open `index.html` in your browser.
 
@@ -69,4 +69,4 @@ No build step and no API key are needed.
 
 ## Author
 
-**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christianjkrantz.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianJKrantz)
